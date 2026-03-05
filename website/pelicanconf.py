@@ -1,6 +1,6 @@
 AUTHOR = 'Caius Peterson'
 SITENAME = 'mywebsite'
-SITEURL = "https://codeberg.org/caius/website-a2.git"
+SITEURL = "https://github.com/caius354/website-a2"
 
 PATH = "content"
 
