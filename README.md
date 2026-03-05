@@ -146,4 +146,5 @@ Q: I changed the Markdown version of my resume, so why don’t I see the changes
 A: You have changed the local version of your resume, but you still need to add, commit, and push the changes to your repository to see any changes.  
 
 ### Credits
-Author: *Caius Peterson*
+Author: *Caius Peterson*  
+Group member (in-class editing): *Hammad Ali Khan* 
